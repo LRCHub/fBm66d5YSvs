@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "大大大大大好きな君へ♡",
+  "base_artist": "花園羽香里 (CV.本渡 楓)、院田唐音 (CV.富田美憂)、好本 静 (CV.長縄まりあ)、栄逢凪乃 (CV.瀬戸麻沙美)、薬膳楠莉 (CV.朝井彩加)",
+  "createdAt": "2025-12-09T07:11:24.459082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大大大大大好きな君へ♡",
+      "artist": "Hakari Hanazono (CV: Kaede Hondo), Karane Inda (CV: Miyu Tomita), Shizuka Yoshimoto (CV: Maria Naganawa), Nano Eiai (CV: Asami Seto) & Kusuri Yakuzen (CV: Ayaka Asai)",
+      "has_synced": true,
+      "path": "select/01_大大大大大好きな君へ♡_Hakari_Hanazono_(CV__Kaede_Hondo),_Karane_Inda_(CV__Miyu_Tomita),_Shizuka_Yoshim.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大大大大大好きな君へ♡ - Daidaidaidaidaisuki na Kimi e",
+      "artist": "Hakari Hanazono (CV: Kaede Hondo), Karane Inda (CV: Miyu Tomita), Shizuka Yoshimoto (CV: Maria Naganawa), Nano Eiai (CV: Asami Seto), and Kusuri Yakuzen (CV: Ayaka Asai)",
+      "has_synced": true,
+      "path": "select/02_大大大大大好きな君へ♡_-_Daidaidaidaidaisuki_na_Kimi_e_Hakari_Hanazono_(CV__Kaede_Hondo),_Karane_Inda_(CV__Miyu_Tomita),_Shizuka_Yoshim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大大大大大好きな君へ♡",
+      "artist": "花園羽香里 (CV. 本渡楓)",
+      "has_synced": true,
+      "path": "select/03_大大大大大好きな君へ♡_花園羽香里_(CV._本渡楓).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大大大大大好きな君へ♡",
+      "artist": "花園羽香里 (CV.本渡 楓), 院田唐音 (CV.富田美憂), 好本 静 (CV.長縄まりあ), 栄逢凪乃 (CV.瀬戸麻沙美), 薬膳楠莉 (CV.朝井彩加)",
+      "has_synced": false,
+      "path": "select/pl_01_大大大大大好きな君へ♡_花園羽香里_(CV.本渡_楓),_院田唐音_(CV.富田美憂),_好本_静_(CV.長縄まりあ),_栄逢凪乃_(CV.瀬戸麻沙美),_薬膳楠莉_(CV.朝井彩加.txt"
+    }
+  ]
+}
