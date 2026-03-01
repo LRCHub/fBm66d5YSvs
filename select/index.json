@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "大大大大大好きな君へ♡",
   "base_artist": "花園羽香里 (CV.本渡 楓)、院田唐音 (CV.富田美憂)、好本 静 (CV.長縄まりあ)、栄逢凪乃 (CV.瀬戸麻沙美)、薬膳楠莉 (CV.朝井彩加)",
-  "createdAt": "2026-01-09T18:37:59.128403Z",
+  "createdAt": "2026-03-01T04:10:49.898315Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,14 @@
       "artist": "花園羽香里 (CV. 本渡楓)",
       "has_synced": true,
       "path": "select/03_大大大大大好きな君へ♡_花園羽香里_(CV._本渡楓).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大大大大大好きな君へ♡ -凪乃ver.-",
+      "artist": "瀬戸麻沙美",
+      "has_synced": true,
+      "path": "select/04_大大大大大好きな君へ♡_-凪乃ver.-_瀬戸麻沙美.lrc"
     },
     {
       "id": "petitlyrics_1",
